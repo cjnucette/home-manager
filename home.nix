@@ -19,6 +19,7 @@
 		neofetch
 		gh
 		bottom
+		ranger
 	];
 
 	home.extraOutputsToInstall = ["man"];
